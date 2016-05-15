@@ -7,7 +7,7 @@ Note: This application has been made available on Google Playstore. It can be do
 ##### System Architecture
 For description kindly refer to document titled [report].
 
-![Alogirthm Design](https://github.com/shahshawaiz/removista-algorithm-design-implementation/images/architecture.png)
+![Alogirthm Design](https://github.com/shahshawaiz/removista-algorithm-design-implementation/blob/master/images/architecture.png)
 
 ### Version
 1.0.0
@@ -16,6 +16,6 @@ For description kindly refer to document titled [report].
 BSD
 
    [removista]: <https://play.google.com/store/apps/details?id=unversity.shawaiz.projectopencv3test&hl=en>
-   [report]: <https://github.com/shahshawaiz/removista-algorithm-design-implementation/report.docx>
+   [report]: <https://github.com/shahshawaiz/removista-algorithm-design-implementation/blob/master/report.docx>
    [shawaiz]: <https://github.com/shahshawaiz>
 
