@@ -4,10 +4,6 @@ Removista is an obstruction removal program. Following program can remove occlus
 
 Note: This application has been made available on Google Playstore. It can be downloaded [removista]. 
 
-##### System Architecture
-For description kindly refer to document titled [report].
-
-![](https://github.com/shahshawaiz/removista-algorithm-design-implementation/blob/master/images/architecture.png)
 
 ### Version
 1.0.0
